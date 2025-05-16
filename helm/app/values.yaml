@@ -5,7 +5,7 @@
 replicaCount: 2
 
 image:
-  githubID: alouvois/demo-java-app
+  githubID: alouvois
   repository: demo-java-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
